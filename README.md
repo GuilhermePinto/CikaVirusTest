@@ -34,6 +34,10 @@ The idea is, we make a preprocessing stage where the tested function is separate
 Finally just test it! Gather the report! Make the changes! And move to the next step of you project!
 No more benchtesting by hand!
 
+This was the first step, next need to create a plartform for Padronization of Case Tests, Testing Automation, Line Coverage...
+
+We will need all this for the making of a generic testing platform for C programs! Later, other testing techniques can be added to this, whichever is needed.
+
 ### Well...
 For now that's the idea, and we will make it!
 
